@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kostia`s Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Сайт Костюшки^^',
+  tagline: 'PK-33 is cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
